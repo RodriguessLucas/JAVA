@@ -32,16 +32,41 @@
         - Atributos: são as caracteristicas de um objeto, tambem chamada de 
         variaveis, como por exemplo: nome, idade, peso, etc.
 
-        
+    
 
 
     2 - Padrão de nomenclatura:
 
-        - Ao criar um arquivo, sempre começe com letra maiuscula
+        - Ao criar um arquivo.java, sempre começe com letra maiuscula
         e nomes compostos mantenha a primeira letra maiuscula. 
         Por exemplo: Minha, MinhaClasse.
 
         -Cada classe "é um arquivo" e dento de cada classe 
         haverá métodos("funções por exemplo").
+        Ou seja, o nome da classe deve ser o mesmo do arquivo.java.
+        Caso não seja, a ide ja acusa erro.
         
         - Método principal de Execução(main)
+
+        - Variavel deve ser escrita com letra minuscula, caso seja palavra composta
+        deve ter a palava maiuscula. Exemplo: ano, AnoFabricacao.
+        Famoso "camelCase"
+            OBS: quando queremos indicar que a variavel  não sofrera alteração
+            definimos o nome com letras maiusculas, caso seja composto, será tudo
+            maiuscula e separado por underline. Exemplo: BRASIL, BR_SCORE
+            
+            usamos o final para definir como variavel imutavel,
+            exemplo: final String BRASIL = "Brasil";
+        
+        - Declarações inválidas:
+            int numero&um 
+            int 1numero
+            int numero um
+            int long
+
+            forma correta:
+            int numero$um
+            int numero1
+            int numeroum
+            int longo
+
