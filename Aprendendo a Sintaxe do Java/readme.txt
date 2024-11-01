@@ -19,6 +19,22 @@
         para determinar o nome dos nossos arquivos, classes, atributos
         e métodos;
 
+        - Classe: define um TIPo de objeto, ou seja, representa a estrutura de dados
+        (atributos, construtores, métodos).
+
+        - Métodos: são criados definindo seu tipo de retorno, como por exemplo
+        void(vazio).
+
+        - Obejto: é uma instancia criada a partir de uma determinada clasee.
+        Após instanciar o objeto é possivel declarar valores aos atributos
+        e chamar os métodos.
+
+        - Atributos: são as caracteristicas de um objeto, tambem chamada de 
+        variaveis, como por exemplo: nome, idade, peso, etc.
+
+        
+
+
     2 - Padrão de nomenclatura:
 
         - Ao criar um arquivo, sempre começe com letra maiuscula
