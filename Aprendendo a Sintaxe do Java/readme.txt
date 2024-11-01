@@ -70,3 +70,24 @@
             int numeroum
             int longo
 
+    3 - Declarando variaveis e métodos:
+        estrutura:
+            tipo NomeBemDefinido = atribuição(opcional em certos casos)
+            exemplo:
+                int idade = 32;
+                double altura = 1.54;
+                dog spyke;
+                boolean simOuNao = true;
+                altura = 5.23;
+
+        declarando métodos:
+        Estrutura:
+            TipoRetorno NomeObjetivoNoInfinito Parametro(s)
+            exemplo:
+            int somar(int numeroUm, int numero2);
+            String formatarCep (long cep);
+            
+
+
+
+        
