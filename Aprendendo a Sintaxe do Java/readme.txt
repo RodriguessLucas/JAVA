@@ -87,6 +87,49 @@
             int somar(int numeroUm, int numero2);
             String formatarCep (long cep);
             
+    4 - Identação:
+        Estrategia de tabular o código para que possa ter uma Organização a 
+        nivel de escopo. Não interfere no código, apenas na visualização.(no caso do java);
+
+    5 - Organização de Arquivos:
+        À medida que nosso sistema vai evoluindo, surgem novos arquivos(código fonte)
+        em nossa estrutura de arquivos do projeto. Isso exige que seja realizado a organização 
+        do código através de pacotes(packages).
+
+        Usa abreviações para ogranizar os pacotes. 
+        Exemplo: comercial(com.), Estoque lojaX(est.lojaX.)
+                edu.lucas.tema.controlefluxo
+                edu.lucas.primeirasemana
+        isso em pastas, ou seja, ficaria algo como:
+            edu\lucas\tema\primeirasemana
+            visualização na IDE:
+            edu
+                lucas
+                    tema
+                        primeirasemana
+    6 - Java Beans:
+        Uma das maiores dificuldade na programação é escrever algoritmos legíveis
+        a níveis que sejam compreendidos por todo seu tiem ou por você mesmo no 
+        futuro. Para isso a linguagem Java surege, através de convenções, formas de
+        escrita universal para nossas classes, atributos, métodos e pacotes.
+
+        variavel:
+            Deve ser clara, sem aberviações ou definição sem sentido;
+            É sempre no singular, exceto quando referir a array ou coleção;
+            Defina um idioma unico para todo o projeto;
+
+        Métodos:
+            Deverão ser nomeados como verbos, toda primeira letra será minuscula,
+            e nomes compostos serão tudo junto e cada inicial em maiuscula.
+            Exemplo: abrir(){} , imprimirInverso(){}
+
+        
+
+        
+
+
+
+        
 
 
 
