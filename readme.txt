@@ -9,6 +9,6 @@ Como está organizado tudo?
 
 
 -- TÓPICOS --
-    1 - Aprendendo a sintaxe do Java;
+    1 - Introdução
     2 - 
     
