@@ -1,14 +1,12 @@
 
 
--- ASSUNTOS ABORDADOS -- 
-    1 - Estrutura Inicial;
-    2 - Padrão de nomenclatura;
-    3 - Declarando Variaveis e Métodos;
-    4 - Identação;
-    5 - Organização de Arquivos;
-    6 - Java Beans.
-
-
+### ASSUNTOS ABORDADOS 
+### 1 - Estrutura Inicial;
+### 2 - Padrão de nomenclatura;
+### 3 - Declarando Variaveis e Métodos;
+### 4 - Identação;
+### 5 - Organização de Arquivos;
+### 6 - Java Beans.
 
 
     1 - Estrutura inicial(Anatomia das classes):
